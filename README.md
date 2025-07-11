@@ -96,17 +96,6 @@ http://localhost:3000
 ![update FileName](https://github.com/user-attachments/assets/91693e03-3617-490f-a693-fe060c50ed40)
 
 
-📌 **How to Add Screenshots in README:**
-
-1. Create a folder `screenshots/` in root.
-2. Paste `.png` images there (`home.png`, `edit.png`, `showfile.png`).
-3. Use this markdown syntax:
-
-   ```markdown
-   ![Alt Text](screenshots/filename.png)
-   ```
-
----
 
 ### 👨‍💻 Developer Info
 
